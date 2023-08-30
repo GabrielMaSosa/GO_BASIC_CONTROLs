@@ -20,8 +20,6 @@ func main(){
 		fmt.Println("Es Viernes")
 	default:
 		fmt.Println("ES Finde de semana")
-
-
 	}
 
 

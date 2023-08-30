@@ -10,4 +10,7 @@ func main(){
 		sum+=sum //acumulo 
 	}
 
+
+	
+
 }
