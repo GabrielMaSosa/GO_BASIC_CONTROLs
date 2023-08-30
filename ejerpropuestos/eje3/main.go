@@ -11,7 +11,7 @@ func main() {
 
 		for i, v := range meses {
 			if i == inp {
-				fmt.Println(v)
+				fmt.Println(i, ",", v)
 				break //para no recorre todo rompemos el bucle
 			}
 		}
